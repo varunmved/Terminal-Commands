@@ -3,7 +3,8 @@ Some additional terminal commands I've written (OSX- El Capitan)
 
 ###CSUS
 I did this on a Mac, if you're using Linux change "Users" to "home" <br>
-First, navigate to your home directory and make a directory called bin by typing:<br><code>mkdir bin</code>
+First, navigate to your home directory by typing <br><code>cd</code><br>
+Then, make a directory called bin by typing:<br><code>mkdir bin</code>
 <br>Then navigate to that directory by typing:<br><code>cd bin</code> 
 <br>Now, in this directory, <code>vim csus</code> and paste the csus file on the directory, changing vedv to your username. Save and close.
 <br>Now, we have to export this file to our PATH. To do this, first type:
